@@ -6,19 +6,19 @@ public class charSwitch {
 
     public static char switchThroughCharTest(char character) {
         switch (character) {
-            case 1:
+            case 'A':
                 System.out.println("Actual Character was A");
                 break;
-            case 2:
+            case 'B':
                 System.out.println("Actual Character was B");
                 break;
-            case 3:
+            case 'C':
                 System.out.println("Actual Character was C");
                 break;
-            case 4:
+            case 'D':
                 System.out.println("Actual Character was D");
                 break;
-            case 5:
+            case 'E':
                 System.out.println("Actual Character was E");
                 break;
             default:
